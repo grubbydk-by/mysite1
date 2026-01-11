@@ -1,0 +1,26 @@
+body {
+  background-image: url(https://i.postimg.cc/j25hychL/Borat.jpg);
+  background-size: 100%;
+}
+
+#header {
+  color: white;
+  text-align: center;
+  border:5px solid green;
+}
+
+#text {
+  font-family: verdana;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  padding-left: 50px;
+  text-shadow: 2px 2px red;
+}
+#link {
+    font-family: Helvetica;
+    font-size: 30px;
+    padding: 70px;
+    padding-left: 50px;
+    margin: 70px;
+}
